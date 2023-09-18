@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>POINT (22.887464 40.692086 0.0)</name>
+<description>ΑΝΑΚΥΚΛΩΣΗ ΑΔΡΑΝΩΝ Ι.Κ.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.883856 40.694244 0.0)</name>
+<description>ΕΛΣΤΑP AE</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.013439 40.512869 0.0)</name>
+<description>Μαρκούδης Ε.Π.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.965656 40.687553 0.0)</name>
+<description>Λ.ΚΕΝΤΕΠΟΖΙΔΗΣ ΚΑΙ ΣΙΑ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.049117 40.783631 0.0)</name>
+<description>Λ.ΚΕΝΤΕΠΟΖΙΔΗΣ ΚΑΙ ΣΙΑ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.902467 40.687203 0.0)</name>
+<description>ΧΟΥΝΑΣ ΝΙΚΟΛΑΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.992831 40.961136 0.0)</name>
+<description>ΑΤΛΑΣ ΣΚΥΡΟΔΕΜΑ Ε.Π.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.474275 40.581564 0.0)</name>
+<description>ΔΗΑΝΑ ΑΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.798636 40.503669 0.0)</name>
+<description>Κ/ΞΙΑ ΑΡΙΣΤΟΤΕΛΗΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.361894 41.229103 0.0)</name>
+<description>ΓΡΑΝΙΤΗΣ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.615944 41.021725 0.0)</name>
+<description>ΣΙΜΟΠΟΥΛΟΣ ΚΩΝ/ΝΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.216911 41.071272 0.0)</name>
+<description>ΠΑΡΠΕΤ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.540158 40.966444 0.0)</name>
+<description>ΜΕΔΟΥΣΑ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.930044 41.135319 0.0)</name>
+<description>ΜΕΔΟΥΣΑ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.743803 40.878781 0.0)</name>
+<description>ΑΚΜΩΝ ΕΝΕΡΓΕΙΑΚΗ Α.Τ.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.502169 41.480747 0.0)</name>
+<description>ΑΣΦΑΛΤΟΔΟΜΙΚΗ ΑΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.284158 40.438111 0.0)</name>
+<description>ΑΝΟΔΟΣ ΑΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.530556 39.113856 0.0)</name>
+<description>ΑΓΡΙΤΕΛΛΗ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.807491 40.702586 0.0)</name>
+<description>ΑΔΡΑΝΗ ΥΛΙΚΑ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.E.</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.362017 40.979206 0.0)</name>
+<description>ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.589033 40.748492 0.0)</name>
+<description>ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ Α.Ε. (ΘΑΣΟΣ)</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.872473 40.667635 0.0)</name>
+<description>ΑΤΡΑΚΤΟΣ ΤΕΧΝΙΚΗ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.695257 40.223558 0.0)</name>
+<description>ΑΦΟΙ ΤΣΕΡΚΕΖΙΔΗ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.383555 40.789158 0.0)</name>
+<description>ΚΟΣΜΙΔΗΣ ΑΕΚΚ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.610365 40.756246 0.0)</name>
+<description>ΕΡΓΟΝ ΑΤΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.50751 39.618375 0.0)</name>
+<description>ΕΑΣΑ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.627062 38.118054 0.0)</name>
+<description>RECYCLING CENTER A. SCHINAS IKE</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.622081 38.11958 0.0)</name>
+<description>WASTE MANAGEMENT – ΣΧΟΙΝΑΣ ΒΑΣ. ΑΝΤΩΝΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.090671 39.893201 0.0)</name>
+<description>Κ. ΣΙΑΧΟΣ &amp; ΣΙΑ ΛΑΤΟΞΕΒΙΤΕ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.854109 40.71503 0.0)</name>
+<description>Μ&amp;Κ ΤΕΧΝΙΚΑ ΕΡΓΑ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.290789 39.766142 0.0)</name>
+<description>ΚΑΡΑΜΑΝΛΗΣ ΕΕ &quot;ΑΕΚΚ ΘΕΣΣΑΛΙΑΣ&quot;</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.355538 39.757598 0.0)</name>
+<description>ΜΗΛΙΩΝΗΣ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.388339 40.329843 0.0)</name>
+<description>Δ. ΜΑΝΩΛΑΚΗΣ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.147463 35.554079 0.0)</name>
+<description>ΦΙΝΟΜΠΕΤΟΝ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.110747 35.569078 0.0)</name>
+<description>Mareprotect</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.775181 39.696504 0.0)</name>
+<description>ΣΑΡΑΚΑΤΣΑΝΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.890903 37.755543 0.0)</name>
+<description>ΓΙΑΚΟΥΜΕΝΟΣ ΙΩΑΝΝΗΣ ΤΟΥ ΠΑΝΑΓΙΩΤΗ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.648797 40.48868 0.0)</name>
+<description>ΓΚΟΥΜΑΣ ΑΝΑΣΤΑΣΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.687162 35.221973 0.0)</name>
+<description>ΑΦΟΙ ΚΟΥΝΕΝΑΚΗ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.883602 38.4213 0.0)</name>
+<description>ΠΡΟΤΥΠΟ ΑΝΑΚΥΚΛΩΣΗ ΚΟΥΤΣΟΣΠΥΡΟΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.116579 38.346434 0.0)</name>
+<description>ΤΕΧΝΕΤ ΧΙΟΥ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.000764 41.18169 0.0)</name>
+<description>ΑΡΙΣΤΟΤΕΛΗΣ ΑΤΕΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.407632 38.560652 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΜΕΠΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.806182 40.703978 0.0)</name>
+<description>ΚΟΜΠΟΣΤΟΠΟΙΗΣΗ Ε.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.920216 40.689316 0.0)</name>
+<description>ΛΙΑΧΤΙΔΑ ΑΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.528324 39.115634 0.0)</name>
+<description>ΠΡΑΣΙΝΕΣ ΛΥΣΕΙΣ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.59165 40.507402 0.0)</name>
+<description>ΥΙΟΙ ΠΑΠΑΓΙΑΝΝΗ ΝΙΚΟΛΑΟΣ ΜΠΟΥΖΙΑΣ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.462515 39.588509 0.0)</name>
+<description>ΛΑΤΟΜΕΙΑ ΤΥΡΝΑΒΟΥ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.283491 40.311451 0.0)</name>
+<description>ΤΣΕΡΕΚΑΣ Ν. ΕΥΑΓΓΕΛΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.61549 41.089865 0.0)</name>
+<description>ECONI Ι.Κ.Ε. ΑΦΟΙ ΝΙΖΑΜΗ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.851926 38.381017 0.0)</name>
+<description>Ανακύκλωση για όλους ΑΕΚΚ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.37857 40.045183 0.0)</name>
+<description>ΛΑΜΠΡΟΥ Ε.Π.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.421241 40.057915 0.0)</name>
+<description>ΑΝΑΚΥΚΛΩΤΙΚΗ ΧΑΛΚΙΔΙΚΗΣ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.855544 38.904571 0.0)</name>
+<description>ΙΟΝΙΟΣ ΜΠΕΤΟΝ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.628653 35.383944 0.0)</name>
+<description>ΠΟΛΟΜΑΡΚΑΚΗΣ ΧΑΡΑΛΑΜΠΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.507476 40.131595 0.0)</name>
+<description>ΕΓΝΑΤΙΑ ΑΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.840996 38.140294 0.0)</name>
+<description>ΑΦΟΙ ΖΑΓΑΡΗ - ΧΩΜΤΕΚ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.673646 38.063298 0.0)</name>
+<description>ΑΦΟΙ ΦΡΑΓΚΟΥ &quot;EXTRA BETON&quot;</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.698424 35.232622 0.0)</name>
+<description>ΑΦΟΙ ΚΟΥΝΕΝΑΚΗ  (ΛΑΤΟΜΕΙΟ)</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.182358 35.320297 0.0)</name>
+<description>ΜΠΕΤΟΝ ΜΕΣΣΑΡΑ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.11229 40.335568 0.0)</name>
+<description>ΑΦΟΙ ΔΙΑΜΑΝΤΟΓΛΟΥ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.495385 38.214257 0.0)</name>
+<description>ΚΑΤΑΣΚΕΥΗ ΑΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.263817 40.363909 0.0)</name>
+<description>ΜΠΑΝΑΒΑΣ Ι. ΓΕΩΡΓΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.636792 38.069799 0.0)</name>
+<description>ΑΦΟΙ ΚΑΡΟΥΤΣΟΥ ΟΕ &quot;ΑΤΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ&quot;</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.475721 40.279747 0.0)</name>
+<description>ΚΟΥΤΙΔΗΣ ΣΑΒΒΑΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.568839 41.076131 0.0)</name>
+<description>ΜΙΧΑΗΛ ΧΑΤΖΗΜΙΧΑΗΛΙΔΗΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.898698 38.409957 0.0)</name>
+<description>ΣΥΡΜΑΚΕΖΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.790515 38.857608 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (19.793686 39.682516 0.0)</name>
+<description>ΚΟΡΥΦΩ ΑΝΑΚΥΚΛΩΣΗ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.401328 38.19228 0.0)</name>
+<description>ΗΦΑΙΣΤΟΣ ΑΝΑΚΥΚΛΩΣΗ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.879043 38.463574 0.0)</name>
+<description>ΑΤΛΑΣ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ ΑΒΕΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.097353 41.167917 0.0)</name>
+<description>ΓΕΩΡΓΙΑΔΗΣ ΜΙΧΑΛΗΣ ΕΠΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.579774 38.617169 0.0)</name>
+<description>ΑΤΛΑΣ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ ΑΒΕΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.110538 40.779222 0.0)</name>
+<description>ΓΡΗΓΟΡΙΑΔΗΣ ΑΝΑΚΥΚΛΩΣΗ Α.Ε.Κ.Κ. ΣΕΒΑΣΤΙΑΝΩΝ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.699962 40.223965 0.0)</name>
+<description>ΜΑΡΚΟΥΔΗΣ Ε.Π.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.73144 37.613688 0.0)</name>
+<description>ΑΦΟΙ ΖΑΧΑΡΑΚΗ ΑΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.419704 39.428196 0.0)</name>
+<description>ΛΑΤΟΜΕΙΑ ΘΕΣΠΡΩΤΙΑΣ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.811958 39.210636 0.0)</name>
+<description>ΛΑΤΟΜΕΙΑ ΠΡΕΒΕΖΗΣ ΑΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.464193 35.29452 0.0)</name>
+<description>ΛΑΤΟΜ ΤΕΧΝΟΜΠΕΤΟΝ ΑΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.470375 39.69065 0.0)</name>
+<description>ΣΑΪΤΗΣ ΕΥΘΥΜΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.536035 40.006542 0.0)</name>
+<description>ΑΔΡΑΜΕΡΙΝΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ &amp; ΣΙΑ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.365388 38.041539 0.0)</name>
+<description>ΑΦΟΙ ΙΩΑΝΝΗ ΣΤΑΜΕΛΟΥ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.874603 37.991295 0.0)</name>
+<description>ΚΡΟΝΟΣ ΕΚΟ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.679025 40.678305 0.0)</name>
+<description>ΤΣΙΝΤΑΣ ΣΕΡΑΦΕΙΜ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.723184 40.530123 0.0)</name>
+<description>ΚΑΠΑ ΔΥΝΑΜΙΚΗ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.327016 39.523805 0.0)</name>
+<description>EUROMIX ΜΟΝ. Ι Κ Ε</description>
+</Placemark>
+<Placemark>
+<name>POINT (19.834043 39.64319 0.0)</name>
+<description>ΔΡΑΣΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (19.852156 39.806834 0.0)</name>
+<description>ΑΞΟΝΑΣ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.038903 40.446654 0.0)</name>
+<description>Γ. ΚΟΥΜΙΩΤΗΣ ΚΑΙ ΣΙΑ ΟΕ - ECO KOUMIOTIS</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.638946 38.07039 0.0)</name>
+<description>Α. Κ. ΔΕΒΕΤΖΟΓΛΟΥ ΕΠΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.756655 35.064807 0.0)</name>
+<description>Green Mountain Project ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.92851 40.907214 0.0)</name>
+<description>Κ. ΚΡΟΜΜΥΔΑΣ ΑΝΑΚΥΚΛΩΤΙΚΗ Α.Β.Ε.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.982545 40.570797 0.0)</name>
+<description>Α. ΧΡΥΣΟΠΟΥΛΟΣ &amp; ΣΙΑ Ο.Ε. - MULTITECH</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.766649 38.08177 0.0)</name>
+<description>ΔΟΜΝΑ ΚΩΣΤΕΛΙΔΟΥ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.556635 38.370968 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.887713 37.910634 0.0)</name>
+<description>ΑΦΟΙ ΛΙΟΣΑΤΟΥ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.502876 38.061074 0.0)</name>
+<description>REGAIA ΟΡΥΚΤΑ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.19338 39.069379 0.0)</name>
+<description>ΑΝΑΚΥΚΛΩΣΗ ΔΥΤΙΚΗΣ ΛΕΣΒΟΥ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.855923 37.578781 0.0)</name>
+<description>ΣΚΟΥΡΤΗΣ Ι. ΕΥΑΓΓΕΛΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.696815 40.274734 0.0)</name>
+<description>ΤΕΧΝΟΜΠΕΤΟΝ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.998403 38.895496 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ Ι.Κ.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.820032 38.910872 0.0)</name>
+<description>ΒΕΛΟΥΧΙ ΚΟΙΝΣΕΠ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.338884 37.584184 0.0)</name>
+<description>ΜΟΡΦΩΝΙΟΣ ΦΙΛΙΠΠΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.923035 37.407946 0.0)</name>
+<description>ΓΙΩΡΓΟΣ ΛΟΥΜΙΔΗΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.943548 37.410928 0.0)</name>
+<description>ΑΝΑΚΥΚΛΩΣΗ ΑΠΕΚ ΣΥΡΟΥ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.897441 37.397959 0.0)</name>
+<description>ΙΩΑΝΝΗΣ ΡΟΥΣΣΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.466839 36.376628 0.0)</name>
+<description>ΣΑΝΤΟΜΠΕΤΟΝ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.2313 37.11302 0.0)</name>
+<description>ΔΑΒΕΡΩΝΑΣ ΙΩΑΝΝΗΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.141753 36.681201 0.0)</name>
+<description>ΔΡΟΣΟΣ ΓΕΩΡΓΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.081761 37.601248 0.0)</name>
+<description>ΒΙΔΑΛΗΣ ΜΠΕΤΟΝ ΑΒΕΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.818702 38.911117 0.0)</name>
+<description>ΦΛΩΡΑΚΗΣ Ε. &amp; ΒΑΞΕΒΑΝΟΣ Θ. Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.743 38.06089 0.0)</name>
+<description>ΜΕΖΙΝΗΣ ΓΕΩΡΓΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.303061 37.239893 0.0)</name>
+<description>ΑΕΚΚ ΣΠΑΡΤΗΣ ΕΜΜΟΓΛΟΥ ΑΙΚΑΤΕΡΙΝΗ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.369756 38.022651 0.0)</name>
+<description>ΘΕΟΔΩΡΟΣ ΠΑΝΤΕΛΗΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.106918 38.378037 0.0)</name>
+<description>ΧΡΗΣΤΟΣ ΒΑΡΑΣΙΑΣ &amp; ΣΙΑ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.977369 40.50552 0.0)</name>
+<description>ΔΕΛΗΔΗΜΗΤΡΙΟΥ ΣΤΕΦΑΝΟΣ &amp; ΣΙΑ ΕΕ - ΕΡΓΟΚΑΔ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.135985 39.881358 0.0)</name>
+<description>ΤΕΔΡΑ Ανώνυμος Τεχνική Περιβαλλοντική Εταιρεία</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.632939 35.379747 0.0)</name>
+<description>ΜΑΘΙΟΥΔΑΚΗΣ ΚΑΤΕΔΑΦΙΣΕΙΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.430017 37.400432 0.0)</name>
+<description>ΒΛΑΣΤΑΡΗΣ ΑΝΤΩΝΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.308874 37.861891 0.0)</name>
+<description>ΤΑΣΙΑ ΡΕΓΚΛΗ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.472526 37.664919 0.0)</name>
+<description>ΜΑΥΡΑΕΙΔΗΣ ΓΕΩΡΓΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.394239 41.173884 0.0)</name>
+<description>ΑΛΕΞΑΝΔΡΟΣ ΑΤΕΒΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.122286 38.491866 0.0)</name>
+<description>ΑΝ.Κ.Ε.Ι.Κ.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.589508 37.649523 0.0)</name>
+<description>ΔΟΞΑ ΑΒΕΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.422162 35.331531 0.0)</name>
+<description>ΠΟΛΟΜΑΡΚΑΚΗΣ ΧΑΡΑΛΑΜΠΟΣ - ΑΝΑΚΥΚΛΩΣΗ ΡΕΘΥΜΝΟΥ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.768745 37.881518 0.0)</name>
+<description>ΔΗΜΗΤΡΙΟΣ Β. ΠΕΤΣΑΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.739347 39.710594 0.0)</name>
+<description>Γ.Σ. ΓΚΟΝΤΑΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (28.140619 36.313124 0.0)</name>
+<description>ΠΑΠΑΔΑΚΗΣ - ΧΑΤΖΗΚΑΛΦΑΣ &amp; ΣΙΑ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (27.13262 36.830418 0.0)</name>
+<description>ΑΦΟΙ ΚΑΜΑΤΕΡΟΥ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.851901 40.982828 0.0)</name>
+<description>ΜΕΤΑΛΛΙΝΟΣ ΑΘΑΝΑΣΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.273554 36.749401 0.0)</name>
+<description>ΧΑΡΟΣ Γ. – ΜΠΟΥΛΟΥΜΠΑΣΗΣ Δ. Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.038522 37.629952 0.0)</name>
+<description>ΒΙΔΑΛΗΣ ΜΠΕΤΟΝ ΑΒΕΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.912659 40.705661 0.0)</name>
+<description>ΤΣΟΜΠΑΝΙΔΗΣ ΧΩΜΑΤΟΡΓΙΚΑ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.571892 35.326161 0.0)</name>
+<description>ΔΑΜΑΝΑΚΙΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.932474 36.620873 0.0)</name>
+<description>ΖΑΧΑΡΙΑΣ ΠΑΠΑΔΟΠΟΥΛΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.873538 40.665936 0.0)</name>
+<description>ΤΣΑΜΗΣ ΔΗΜΗΤΡΙΟΣ - ΚΡΙΚΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.285667 37.953064 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.915372 37.88965 0.0)</name>
+<description>ΣΥΓΧΡΟΝΗ ΔΟΜΗΣΗ Μ Τ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε - ΤΟΥΛΑΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.512598 35.274107 0.0)</name>
+<description>ΚΟΚΚΙΝΗ ΜΑΡΙΑ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.00551 40.509616 0.0)</name>
+<description>ΑΦΟΙ ΦΡΑΝΤΖΙΔΗ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.758748 38.084364 0.0)</name>
+<description>ΛΑΖΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.896945 36.855044 0.0)</name>
+<description>ΝΙΚΟΛΑΟΣ &amp; ΝΙΚΗΤΑΣ ΓΙΑΝΝΑΚΟΣ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.898278 40.884298 0.0)</name>
+<description>ECO SOLUTIONS ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.479922 40.28644 0.0)</name>
+<description>MANOLAKIS BROS ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.65022 38.104595 0.0)</name>
+<description>ΘΑΝΟΠΟΥΛΟΣ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.446446 41.359569 0.0)</name>
+<description>ΑΚΜΩΝ ΕΝΕΡΓΕΙΑΚΗ ΑΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.53539 40.658511 0.0)</name>
+<description>FERTILIS ΕΠΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.805434 39.403187 0.0)</name>
+<description>ΝΤΑΟΠΟΥΛΟΣ Κ κ’ Β &amp; ΣΙΑ ΑΒΕΤΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.531721 37.060848 0.0)</name>
+<description>ΤΕΧΝΟΚΥΚΛΑΔΙΚΗ ΑΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.724701 40.71285 0.0)</name>
+<description>ΛΑΤΟΜΕΙΑ ΑΓΙΟΥ ΠΑΝΤΕΛΕΗΜΟΝΑ ΑΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.864227 39.702511 0.0)</name>
+<description>ΑΝΑΚΥΚΛΩΤΙΚΗ ΠΑΡΑΛΙΑΣ ΛΑΡΙΣΑΣ ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.377431 39.651432 0.0)</name>
+<description>ΕΑΣΑ ΙΚΕ (2)</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.871374 40.663054 0.0)</name>
+<description>QOSE ELJANA</description>
+</Placemark>
+<Placemark>
+<name>POINT (21.648844 38.133066 0.0)</name>
+<description>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ Ι.Κ.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (26.446987 41.354953 0.0)</name>
+<description>ΣΤΑΘΟΓΑΜΒΡΟΣ ΑΡΓΥΡΙΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.757226 38.082122 0.0)</name>
+<description>Π. &amp; Α. ΠΕΠΠΑΣ ΟΜΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.321008 40.252214 0.0)</name>
+<description>Ι.&amp; Γ.ΜΠΑΝΑΒΑΣ ΕΜΠΟΡΙΚΗ-ΧΩΜΑΤΟΥΡΓΙΚΗ Ι.Κ.Ε</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.36363 37.448504 0.0)</name>
+<description>ΟΙΚΟΔΟΜΙΚΗ ΜΥΚΟΝΟΥ </description>
+</Placemark>
+<Placemark>
+<name>POINT (25.580994 35.282165 0.0)</name>
+<description>Α. ΒΙΔΑΛΗΣ ΚΑΙ ΥΙΟΙ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (24.473299 40.964831 0.0)</name>
+<description>ΑΝΑΝΙΑΔΗΣ ΑΛΕΞΑΝΔΡΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.671706 40.554108 0.0)</name>
+<description>ΑΤΕΧ ΑΦΟΙ ΑΡΓΥΡΟΥ ΟΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.510461 38.06468 0.0)</name>
+<description>Κ.Κ. RECYCLING HELLAS - Τ. ΚΑΛΛΕΡΓΗΣ Γ. ΚΩΤΣΗΣ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.645962 38.050172 0.0)</name>
+<description>ΨΑΛΛΙΔΑΣ ΑΤΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (22.33019 38.45426 0.0)</name>
+<description>ΘΕΟΦΑΝΗΣ Γ. ΜΠΑΡΤΣΩΤΑΣ &amp; ΣΙΑ Ε.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.154724 37.395086 0.0)</name>
+<description>ΣΤΑΝΤΑΡ ΜΠΕΤΟΝ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.155005 39.200183 0.0)</name>
+<description>ΥΙΟΙ ΑΘΑΝΑΣΙΟΥ ΚΟΝΤΑΡΗ Ο.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (27.14167 36.847208 0.0)</name>
+<description>KOS GREEN ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (20.461097 39.330762 0.0)</name>
+<description>ΕΛΕΥΘ. ΧΑΝΤΖΑΡΑΣ &amp; ΣΙΑ ΟΕ &quot;ΛΑΤΟΜΕΙΑ ΜΕΣΟΒΟΥΝΙΟΥ&quot;</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.833414 38.243371 0.0)</name>
+<description>INTERBETON ΔΟΜΙΚΑ ΥΛΙΚΑ Α.Ε.</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.56643 41.071041 0.0)</name>
+<description>Κ.ΚΑΝΤΙΔΗΣ ΜΟΝΟΠΡΟΣΩΠΗ - ΙΚΕ</description>
+</Placemark>
+<Placemark>
+<name>POINT (23.922848 37.889592 0.0)</name>
+<description>ΝΑΣΟΣ ΝΙΚΟΛΑΟΣ</description>
+</Placemark>
+<Placemark>
+<name>POINT (25.090671 39.893201)</name>
+<description>Κ. ΣΙΑΧΟΣ &amp; ΣΙΑ ΛΑΤΟΞΕΒΙΤΕ Α.Ε.</description>
+</Placemark>
+</Document>
+</kml>
