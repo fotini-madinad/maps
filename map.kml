@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ΑΝΑΚΕΜ Α.Ε.: Μονάδες Επεξεργασίας ΑΕΚΚ</name>
+    <description><![CDATA[Στο χάρτη φαίνονται οι ακριβείς τοποθεσίες των Μονάδων Επεξεργασίας ΑΕΚΚ που συμβάλλονται με το ΣΣΕΔ ΑΝΑΚΕΜ Α.Ε.<br>Δείτε περισσότερα στον ιστότοπο http://www.anakem.gr/]]></description>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Επίπεδο χωρίς τίτλο</name>
+      <Placemark>
+        <name>ΑΝΑΚΥΚΛΩΣΗ ΑΔΡΑΝΩΝ Ι.Κ.Ε.
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.887464,40.692086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΕΛΣΤΑP AE</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.883856,40.694244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Μαρκούδης Ε.Π.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.0134390000001,40.512869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Λ.ΚΕΝΤΕΠΟΖΙΔΗΣ ΚΑΙ ΣΙΑ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.965656,40.687553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Λ.ΚΕΝΤΕΠΟΖΙΔΗΣ ΚΑΙ ΣΙΑ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.049117,40.783631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΧΟΥΝΑΣ ΝΙΚΟΛΑΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.902467,40.687203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΤΛΑΣ ΣΚΥΡΟΔΕΜΑ Ε.Π.Ε.
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.992831,40.961136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΗΑΝΑ ΑΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.474275,40.581564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Κ/ΞΙΑ ΑΡΙΣΤΟΤΕΛΗΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.798636,40.503669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΓΡΑΝΙΤΗΣ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.361894,41.229103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΙΜΟΠΟΥΛΟΣ ΚΩΝ/ΝΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.615944,41.021725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΠΑΡΠΕΤ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.216911,41.071272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΕΔΟΥΣΑ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.540158,40.966444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΕΔΟΥΣΑ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.930044,41.135319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΚΜΩΝ ΕΝΕΡΓΕΙΑΚΗ Α.Τ.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.7438030000001,40.878781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΣΦΑΛΤΟΔΟΜΙΚΗ ΑΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.502169,41.480747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΟΔΟΣ ΑΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.2841579999999,40.438111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΑΓΡΙΤΕΛΛΗ, ΕΙΡΗΝΗ, & ΣΙΑ Ο.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.530556,39.113856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΔΡΑΝΗ ΥΛΙΚΑ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.E.
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8074908,40.7025861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.362017,40.979206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ Α.Ε. (ΘΑΣΟΣ)</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.5890331,40.7484924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΤΡΑΚΤΟΣ ΤΕΧΝΙΚΗ ΟΕ
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.872473,40.667635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΤΣΕΡΚΕΖΙΔΗ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6952567,40.2235579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΟΣΜΙΔΗΣ ΑΕΚΚ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.3835546,40.7891585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΕΡΓΟΝ ΑΤΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6103649,40.7562461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΕΑΣΑ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.5075102,39.6183754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RECYCLING CENTER A. SCHINAS IKE</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6270617,38.1180545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WASTE MANAGEMENT – ΣΧΟΙΝΑΣ ΒΑΣ. ΑΝΤΩΝΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6220808,38.1195802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Κ. ΣΙΑΧΟΣ & ΣΙΑ ΛΑΤΟΞΕΒΙΤΕ Α.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.0906706,39.8932009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Μ&Κ ΤΕΧΝΙΚΑ ΕΡΓΑ Α.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8541092,40.7150297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΚΑΡΑΜΑΝΛΗΣ ΕΕ "ΑΕΚΚ ΘΕΣΣΑΛΙΑΣ"]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.2907892,39.7661424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΗΛΙΩΝΗΣ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.3555382,39.7575975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Δ. ΜΑΝΩΛΑΚΗΣ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.3883388,40.3298427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΦΙΝΟΜΠΕΤΟΝ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.147463,35.5540791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mareprotect</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.1107469,35.5690784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΑΡΑΚΑΤΣΑΝΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.7751809,39.6965039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΓΙΑΚΟΥΜΕΝΟΣ ΙΩΑΝΝΗΣ ΤΟΥ ΠΑΝΑΓΙΩΤΗ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.8909028,37.7555426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΓΚΟΥΜΑΣ ΑΝΑΣΤΑΣΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6487969,40.4886803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΚΟΥΝΕΝΑΚΗ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.6871623,35.2219728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΠΡΟΤΥΠΟ ΑΝΑΚΥΚΛΩΣΗ ΚΟΥΤΣΟΣΠΥΡΟΣ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.8836015,38.4213005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΕΧΝΕΤ ΧΙΟΥ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.1165788,38.3464335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΡΙΣΤΟΤΕΛΗΣ ΑΤΕΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.0007637,41.1816902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΜΕΠΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.407632,38.5606519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΟΜΠΟΣΤΟΠΟΙΗΣΗ Ε.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8061821,40.7039785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΙΑΧΤΙΔΑ ΑΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.9202161,40.6893161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΠΡΑΣΙΝΕΣ ΛΥΣΕΙΣ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.5283236,39.1156336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΥΙΟΙ ΠΑΠΑΓΙΑΝΝΗ ΝΙΚΟΛΑΟΣ ΜΠΟΥΖΙΑΣ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.5916496,40.5074025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΤΟΜΕΙΑ ΤΥΡΝΑΒΟΥ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.4625151,39.5885091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΣΕΡΕΚΑΣ Ν. ΕΥΑΓΓΕΛΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.283491,40.311451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ECONI Ι.Κ.Ε. ΑΦΟΙ ΝΙΖΑΜΗ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6154903,41.089865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ανακύκλωση για όλους ΑΕΚΚ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.8519264,38.3810166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΜΠΡΟΥ Ε.Π.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.3785697,40.045183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΑΚΥΚΛΩΤΙΚΗ ΧΑΛΚΙΔΙΚΗΣ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.4212409,40.0579146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΜΠΕΤΟΝ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.8555444,38.9045713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΠΟΛΟΜΑΡΚΑΚΗΣ ΧΑΡΑΛΑΜΠΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.628653,35.383944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΕΓΝΑΤΙΑ ΑΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.5074756,40.131595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΖΑΓΑΡΗ - ΧΩΜΤΕΚ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8409961,38.1402935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΑΦΟΙ ΦΡΑΓΚΟΥ "EXTRA BETON"]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6736456,38.0632983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΚΟΥΝΕΝΑΚΗ  (ΛΑΤΟΜΕΙΟ)</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.6984243,35.2326217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΠΕΤΟΝ ΜΕΣΣΑΡΑ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.1823585,35.3202967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΔΙΑΜΑΝΤΟΓΛΟΥ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.1122899,40.3355676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΑΤΑΣΚΕΥΗ ΑΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.4953846,38.2142573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΠΑΝΑΒΑΣ Ι. ΓΕΩΡΓΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.2638171,40.3639092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΑΦΟΙ ΚΑΡΟΥΤΣΟΥ ΟΕ "ΑΤΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ"]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6367919,38.0697987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΟΥΤΙΔΗΣ ΣΑΒΒΑΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.475721,40.2797469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΙΧΑΗΛ ΧΑΤΖΗΜΙΧΑΗΛΙΔΗΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.568839,41.0761309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΥΡΜΑΚΕΖΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8986981,38.4099566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.7905146,38.8576083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΟΡΥΦΩ ΑΝΑΚΥΚΛΩΣΗ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            19.7936855,39.6825163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΗΦΑΙΣΤΟΣ ΑΝΑΚΥΚΛΩΣΗ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.4013277,38.1922802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΤΛΑΣ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ ΑΒΕΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.8790427,38.4635738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΓΕΩΡΓΙΑΔΗΣ ΜΙΧΑΛΗΣ ΕΠΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.0973531,41.1679174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΤΛΑΣ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ ΑΒΕΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.5797742,38.6171689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΓΡΗΓΟΡΙΑΔΗΣ ΑΝΑΚΥΚΛΩΣΗ Α.Ε.Κ.Κ. ΣΕΒΑΣΤΙΑΝΩΝ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.1105376,40.7792218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΑΡΚΟΥΔΗΣ Ε.Π.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6999618,40.2239652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΖΑΧΑΡΑΚΗ ΑΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.7314399,37.6136878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΤΟΜΕΙΑ ΘΕΣΠΡΩΤΙΑΣ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.4197036,39.4281959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΤΟΜΕΙΑ ΠΡΕΒΕΖΗΣ ΑΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.811958,39.2106365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΤΟΜ ΤΕΧΝΟΜΠΕΤΟΝ ΑΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.4641932,35.2945205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΑΪΤΗΣ ΕΥΘΥΜΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.4703752,39.6906496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΑΔΡΑΜΕΡΙΝΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ & ΣΙΑ Ο.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.5360353,40.0065423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΙΩΑΝΝΗ ΣΤΑΜΕΛΟΥ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.3653885,38.0415392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΡΟΝΟΣ ΕΚΟ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.874603,37.991295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΣΙΝΤΑΣ ΣΕΡΑΦΕΙΜ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.679025,40.6783052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΑΠΑ ΔΥΝΑΜΙΚΗ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.7231841,40.5301229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EUROMIX ΜΟΝ. Ι Κ Ε</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.3270164,39.5238054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΡΑΣΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            19.8340431,39.6431896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΞΟΝΑΣ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            19.8521555,39.8068337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Γ. ΚΟΥΜΙΩΤΗΣ ΚΑΙ ΣΙΑ ΟΕ - ECO KOUMIOTIS</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.0389026,40.446654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Α. Κ. ΔΕΒΕΤΖΟΓΛΟΥ ΕΠΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6389463,38.0703896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Mountain Project ΙΚΕ
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.7566547,35.0648068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Κ. ΚΡΟΜΜΥΔΑΣ ΑΝΑΚΥΚΛΩΤΙΚΗ Α.Β.Ε.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.9285095,40.9072141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Α. ΧΡΥΣΟΠΟΥΛΟΣ & ΣΙΑ Ο.Ε. - MULTITECH
+]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.9825448,40.5707973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΟΜΝΑ ΚΩΣΤΕΛΙΔΟΥ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.7666486,38.0817704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.5566351,38.3709681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΛΙΟΣΑΤΟΥ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8877127,37.9106344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REGAIA ΟΡΥΚΤΑ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.5028762,38.0610742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΑΚΥΚΛΩΣΗ ΔΥΤΙΚΗΣ ΛΕΣΒΟΥ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.19338,39.0693794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΚΟΥΡΤΗΣ Ι. ΕΥΑΓΓΕΛΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8559227,37.5787814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΕΧΝΟΜΠΕΤΟΝ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6968152,40.2747345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ Ι.Κ.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.9984027,38.8954963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΒΕΛΟΥΧΙ ΚΟΙΝΣΕΠ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.8200325,38.9108716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΟΡΦΩΝΙΟΣ ΦΙΛΙΠΠΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.3388845,37.5841843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["ΓΙΩΡΓΟΣ ΛΟΥΜΙΔΗΣ" ΘΕΟΦΙΛΟΣ ΚΑΙ ΙΩΣΗΦ ΡΟΥΣΣΟΣ Ο.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.9230353,37.4079464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΑΚΥΚΛΩΣΗ ΑΠΕΚ ΣΥΡΟΥ Ο.Ε.
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.9435483,37.4109284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΩΑΝΝΗΣ ΡΟΥΣΣΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.8974406,37.3979594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΑΝΤΟΜΠΕΤΟΝ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.4668392,36.376628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΑΒΕΡΩΝΑΣ ΙΩΑΝΝΗΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.2313002,37.1130195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΡΟΣΟΣ ΓΕΩΡΓΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.1417531,36.6812014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΒΙΔΑΛΗΣ ΜΠΕΤΟΝ ΑΒΕΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.0817612,37.601248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΦΛΩΡΑΚΗΣ Ε. & ΒΑΞΕΒΑΝΟΣ Θ. Α.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.8187015,38.9111166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΕΖΙΝΗΣ ΓΕΩΡΓΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.7430001,38.0608895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΕΚΚ ΣΠΑΡΤΗΣ ΕΜΜΟΓΛΟΥ ΑΙΚΑΤΕΡΙΝΗ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.303061,37.2398929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΘΕΟΔΩΡΟΣ ΠΑΝΤΕΛΗΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.3697555,38.0226509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΧΡΗΣΤΟΣ ΒΑΡΑΣΙΑΣ & ΣΙΑ ΟΕ]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.1069175,38.3780373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΔΕΛΗΔΗΜΗΤΡΙΟΥ ΣΤΕΦΑΝΟΣ & ΣΙΑ ΕΕ - ΕΡΓΟΚΑΔ]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.9773692,40.5055198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΕΔΡΑ Ανώνυμος Τεχνική Περιβαλλοντική Εταιρεία</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.1359849,39.8813582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΑΘΙΟΥΔΑΚΗΣ ΚΑΤΕΔΑΦΙΣΕΙΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.6329394,35.3797474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΒΛΑΣΤΑΡΗΣ ΑΝΤΩΝΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.4300167,37.4004324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΑΣΙΑ ΡΕΓΚΛΗ </name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.3088743,37.8618907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΑΥΡΑΕΙΔΗΣ ΓΕΩΡΓΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.4725261,37.6649186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΛΕΞΑΝΔΡΟΣ ΑΤΕΒΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.3942386,41.1738835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝ.Κ.Ε.Ι.Κ.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.1222863,38.4918662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΟΞΑ ΑΒΕΤΕ </name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.5895077,37.6495228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΠΟΛΟΜΑΡΚΑΚΗΣ ΧΑΡΑΛΑΜΠΟΣ - ΑΝΑΚΥΚΛΩΣΗ ΡΕΘΥΜΝΟΥ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.4221623,35.331531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΗΜΗΤΡΙΟΣ Β. ΠΕΤΣΑΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.7687451,37.8815177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Γ.Σ. ΓΚΟΝΤΑΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.7393469,39.7105941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΠΑΠΑΔΑΚΗΣ - ΧΑΤΖΗΚΑΛΦΑΣ & ΣΙΑ Ο.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            28.1406188,36.3131242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΚΑΜΑΤΕΡΟΥ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.1326196,36.8304178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΜΕΤΑΛΛΙΝΟΣ ΑΘΑΝΑΣΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8519006,40.9828285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΧΑΡΟΣ Γ. – ΜΠΟΥΛΟΥΜΠΑΣΗΣ Δ. Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.2735544,36.7494014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΒΙΔΑΛΗΣ ΜΠΕΤΟΝ ΑΒΕΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.0385216,37.6299518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΣΟΜΠΑΝΙΔΗΣ ΧΩΜΑΤΟΡΓΙΚΑ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.9126586,40.7056612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΔΑΜΑΝΑΚΙΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.5718921,35.3261611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΖΑΧΑΡΙΑΣ ΠΑΠΑΔΟΠΟΥΛΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.9324744,36.6208728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΣΑΜΗΣ ΔΗΜΗΤΡΙΟΣ - ΚΡΙΚΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8735382,40.6659357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.2856669,37.9530645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΥΓΧΡΟΝΗ ΔΟΜΗΣΗ Μ Τ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε - ΤΟΥΛΑΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.915372,37.8896495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΚΟΚΚΙΝΗ ΜΑΡΙΑ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.5125985,35.2741068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΦΟΙ ΦΡΑΝΤΖΙΔΗ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.0055103,40.5096161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΖΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.7587485,38.0843644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΝΙΚΟΛΑΟΣ & ΝΙΚΗΤΑΣ ΓΙΑΝΝΑΚΟΣ ΟΕ]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.896945,36.8550445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ECO SOLUTIONS ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.8982782,40.8842979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MANOLAKIS BROS ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.479922,40.2864404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΘΑΝΟΠΟΥΛΟΣ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6502197,38.1045946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΚΜΩΝ ΕΝΕΡΓΕΙΑΚΗ ΑΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.4464461,41.3595693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FERTILIS ΕΠΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.5353901,40.6585112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΝΤΑΟΠΟΥΛΟΣ Κ κ’ Β & ΣΙΑ ΑΒΕΤΑΕ]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8054338,39.4031868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΤΕΧΝΟΚΥΚΛΑΔΙΚΗ ΑΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.5317207,37.0608476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΛΑΤΟΜΕΙΑ ΑΓΙΟΥ ΠΑΝΤΕΛΕΗΜΟΝΑ ΑΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.7247007,40.7128504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΑΚΥΚΛΩΤΙΚΗ ΠΑΡΑΛΙΑΣ ΛΑΡΙΣΑΣ ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8642271,39.702511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΕΑΣΑ ΙΚΕ (2)</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.3774306,39.6514324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QOSE ELJANA</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8713738,40.6630539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΙΟΝΙΟΣ ΑΝΑΚΥΚΛΩΣΗ Ι.Κ.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.6488438,38.1330659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΤΑΘΟΓΑΜΒΡΟΣ ΑΡΓΥΡΙΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.4469868,41.3549533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Π. & Α. ΠΕΠΠΑΣ ΟΜΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.7572264,38.0821223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ι.& Γ.ΜΠΑΝΑΒΑΣ ΕΜΠΟΡΙΚΗ-ΧΩΜΑΤΟΥΡΓΙΚΗ Ι.Κ.Ε]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.3210076,40.2522143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΟΙΚΟΔΟΜΙΚΗ ΜΥΚΟΝΟΥ </name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.3636295,37.4485036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Α. ΒΙΔΑΛΗΣ ΚΑΙ ΥΙΟΙ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.5809939,35.2821647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΝΑΝΙΑΔΗΣ ΑΛΕΞΑΝΔΡΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.4732986,40.9648312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΑΤΕΧ ΑΦΟΙ ΑΡΓΥΡΟΥ ΟΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6717059,40.5541079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Κ.Κ. RECYCLING HELLAS - Τ. ΚΑΛΛΕΡΓΗΣ Γ. ΚΩΤΣΗΣ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.5104612,38.0646796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΨΑΛΛΙΔΑΣ ΑΤΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6459625,38.0501718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΘΕΟΦΑΝΗΣ Γ. ΜΠΑΡΤΣΩΤΑΣ & ΣΙΑ Ε.Ε.]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.3301898,38.45426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΣΤΑΝΤΑΡ ΜΠΕΤΟΝ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.1547244,37.3950865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΥΙΟΙ ΑΘΑΝΑΣΙΟΥ ΚΟΝΤΑΡΗ Ο.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.1550049,39.2001832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOS GREEN ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.1416699,36.8472082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ΕΛΕΥΘ. ΧΑΝΤΖΑΡΑΣ & ΣΙΑ ΟΕ "ΛΑΤΟΜΕΙΑ ΜΕΣΟΒΟΥΝΙΟΥ"]]></name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.4610967,39.3307619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INTERBETON ΔΟΜΙΚΑ ΥΛΙΚΑ Α.Ε.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8334136,38.243371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Κ.ΚΑΝΤΙΔΗΣ ΜΟΝΟΠΡΟΣΩΠΗ - ΙΚΕ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.5664298,41.0710412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ΝΑΣΟΣ ΝΙΚΟΛΑΟΣ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9228475,37.889592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Επίπεδο χωρίς τίτλο</name>
+    </Folder>
+    <Folder>
+      <name>Επίπεδο χωρίς τίτλο</name>
+    </Folder>
+  </Document>
+</kml>
